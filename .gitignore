@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Launcher scripts
+start_jupyter.bat
+
+# Claude config
+.claude/
+
+# Spark/Hadoop local output
+learn-spark-with-me/output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
